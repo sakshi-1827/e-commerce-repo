@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "image": "/image/macbook.png",
+        "productname": "Mackbook pro 2013",
+        "Price": 235000,
+        "Item": "Electronics"
+    },
+    {
+        "id": 2,
+        "image": "/image/smartwatch.png",
+        "productname": "smartwatch",
+        "Price": 135000,
+        "Item": "Electronics"
+    },
+    {
+        "id": 3,
+        "image": "/image/phone.png",
+        "productname": "phone",
+        "Price": 335000,
+        "Item": "Electronics"
+    },
+
+    {
+        "id": 4,
+        "image": "/image/cattle.png",
+        "productname": "cattle",
+        "Price": 5000,
+        "Item": "Electronics"
+    },
+
+    {
+        "id": 5,
+        "image": "/image/headphone.png",
+        "productname": "headphone",
+        "Price": 15000,
+        "Item": "Electronics"
+    },
+
+    {
+        "id": 6,
+        "image": "/image/frock.png",
+        "productname": "frock",
+        "Price": 35000,
+        "Item": "clothing"
+    },
+
+    {
+        "id": 7,
+        "image": "/image/shorty.png",
+        "productname": "shorty",
+        "Price": 65000,
+        "Item": "clothing"
+    },
+
+    {
+        "id": 8,
+        "image": "/image/jeans.png",
+        "productname": "jeans",
+        "Price": 35000,
+        "Item": "clothing"
+    },
+
+    {
+        "id": 9,
+        "image": "/image/suit.png",
+        "productname": "suit",
+        "Price": 225000,
+        "Item": "clothing"
+    },
+
+    {
+        "id": 10,
+        "image": "/image/t shirt.png",
+        "productname": "T-shirt",
+        "Price": 55000,
+        "Item": "clothing"
+    },
+
+    {
+        "id": 11,
+        "image": "/image/shoes 3.png",
+        "productname": "Shoes-3",
+        "Price": 95150,
+        "Item": "footwear"
+    },
+
+    {
+        "id": 12,
+        "image": "/image/heels1.png",
+        "productname": "Heels-1",
+        "Price": 95000,
+        "Item": "footwear"
+    },
+
+    {
+        "id": 13,
+        "image": "/image/shoes 2.png",
+        "productname": "Shoes-2",
+        "Price": 125000,
+        "Item": "footwear"
+    },
+
+    {
+        "id": 14,
+        "image": "/image/shoes 1.png",
+        "productname": "Shoes-1",
+        "Price": 35050,
+        "Item": "footwear"
+    },
+
+    {
+        "id": 15,
+        "image": "/image/shoes.png",
+        "productname": "shoes",
+        "Price": 35000,
+        "Item": "footwear"
+    },
+
+    {
+        "id": 16,
+        "image": "/image/tost.png",
+        "productname": "tost",
+        "Price": 5000,
+        "Item": "bakery"
+    },
+
+    {
+        "id": 17,
+        "image": "/image/cake.png",
+        "productname": "cake",
+        "Price": 65000,
+        "Item": "bakery"
+    },
+
+    {
+        "id": 18,
+        "image": "/image/cookies.png",
+        "productname": "cookies",
+        "Price": 1200,
+        "Item": "bakery"
+    },
+
+    {
+        "id": 19,
+        "image": "/image/bread1.png",
+        "productname": "bread1",
+        "Price": 35000,
+        "Item": "bakery"
+    },
+
+    {
+        "id": 20,
+        "image": "/image/bread.png",
+        "productname": "bread",
+        "Price": 55000,
+        "Item": "bakery"
+    },
+    {
+        "id": 21,
+        "image": "/image/watch.png",
+        "productname": "watch",
+        "Price": 19999,
+        "Item": "BigSale"
+    }
+
+
+]

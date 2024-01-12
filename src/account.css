@@ -1,0 +1,71 @@
+.account-settings .user-profile {
+    margin: 0 0 1rem 0;
+    padding-bottom: 4rem;
+    text-align: center;
+}
+
+.account-settings .user-profile .user-avatar {
+    margin: 75px;
+}
+
+.account-settings .user-profile .user-avatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-left: -40px;
+}
+
+.account-settings .user-profile h5.user-name {
+    margin: 15px;
+    font-size: 30px;
+}
+
+.account-settings .user-profile h6.user-email {
+    margin: 0;
+    font-size: 12px ;
+    font-weight: 1000px;
+    color: #9a9090;
+}
+select{
+    display: block;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    height: 40px;
+    padding: 5px 10px;
+}
+
+select:focus{
+    outline: none;
+}
+.button{
+    background-color: #fff;
+    color: #0779e4;
+}
+.button:hover{
+    background-color: #0779e4;
+    color: #fff;
+
+}
+.btn-primary{
+    background-color: #0779e4;
+}
+
+.account-settings .about p {
+    font-size: 30px;
+}
+
+.form-group {
+    border: 1px solid #cfd1d8;
+    border-radius: 2px;
+    font-size: 20px;
+    background: #ffffff;
+    color: #17171c;
+}
+
+.card {
+    background: #ffffff;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 1rem;
+}
